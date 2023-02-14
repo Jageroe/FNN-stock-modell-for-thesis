@@ -1,0 +1,12 @@
+# ignore ALL .log files
+*.log
+
+# ignore venv folder
+venv-fnn-thesis/ 
+
+# ignore venv folder
+data_preprocessing.ipynb
+
+# ignore cache folders
+.ipynb_checkpoints
+__pycache__
